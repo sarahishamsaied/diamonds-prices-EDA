@@ -36,5 +36,8 @@ Feel free to explore the Jupyter notebook for a detailed walkthrough of the anal
 6. scikit-learn
 7. keras
 ### How to Run
-Install the required dependencies using pip install -r requirements.txt.
+Install the required dependencies using
+
+    pip install -r requirements.txt.
+
 Run the Jupyter notebook diamond_sales_prediction.ipynb for a step-by-step analysis.
