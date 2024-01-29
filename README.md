@@ -22,10 +22,7 @@ This notebook aims to predict the sales prices of diamonds based on various feat
 3. Achieved a R-squared value of approximately 80% on the test set.
 ### Top Features Impacting Sales Price
 Explored the top features influencing sales prices, including carat weight, cut quality, polish, and more.
-Recommendations
-Consider the identified influential features when pricing diamonds.
-Continue to refine the model with additional data and feature engineering.
-Feel free to explore the Jupyter notebook for a detailed walkthrough of the analysis and model development.
+
 
 ### Dependencies
 1. Python 3.x
